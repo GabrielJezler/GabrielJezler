@@ -6,7 +6,7 @@
 
 🇧🇷 Mechanical Engineering student at **UNICAMP**
 
-🇫🇷 Double degree at **Centrale de Nantes** with specialization in **Advanced Modeling and Structural Analysis (MAAS)**
+🇫🇷 Double degree at **Centrale Nantes** with specialization in **Advanced Modeling and Structural Analysis (MAAS)**
 
 ## 🛠 Skills
 
